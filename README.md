@@ -28,11 +28,19 @@ cd quantum-ignition-lab
 
 # 安裝依賴
 pip install -r requirements.txt
-
-# 運行交互式演示
-python examples/interactive_demo.py
 ```
-
+1. 測試基礎功能:
+   ```bash
+   python quick_demo.py
+   ```
+2. 運行完整演示:
+   ```bash
+   python semiconductor_lithography_demo.py
+   ```
+3. 交互式控制:
+   ```bash
+   python device_console.py
+   ```
 基礎代碼示例
 
 ```python
