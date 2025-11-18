@@ -31,15 +31,15 @@ pip install -r requirements.txt
 ```
 1. 測試基礎功能:
    ```bash
-   python quick_demo.py
+   python examples/quick_demo.py
    ```
 2. 運行完整演示:
    ```bash
-   python semiconductor_lithography_demo.py
+   python examples/semiconductor_lithography_demo.py
    ```
 3. 交互式控制:
    ```bash
-   python device_console.py
+   python examples/device_console.py
    ```
 基礎代碼示例
 
