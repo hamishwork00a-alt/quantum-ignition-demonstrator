@@ -221,7 +221,7 @@ visualizer.plot_comprehensive_results(controlled)
 如果您在研究中使用了本項目，請引用：
 
 ```bibtex
-@software{quantum_ignition_2024,
+@software{quantum_ignition_2025,
   title = {Quantum Ignition Demonstrator: Next-generation EUV Source Technology},
   author = {Quantum Ignition Lab},
   year = {2025},
